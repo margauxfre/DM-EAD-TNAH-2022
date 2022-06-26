@@ -6,12 +6,13 @@
         <eadid>20110282_CRMHIDF</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Conservation régionale des monuments historiques d'Île-de-France : 
-                    programmation et conduite de travaux sur des édifices publics (1956-1993)</titleproper>
+                <titleproper>Conservation régionale des monuments historiques d'Île-de-France :
+                    programmation et conduite de travaux sur des édifices publics
+                    (1956-1993)</titleproper>
                 <subtitle>Répertoire numérique</subtitle>
-                <author>Établi par Arnaud de Castelbaiac, Service interministériel des archives de France;
-                    Danièle Kriser, Service national des travaux; Marie Castaing; 
-                    Anne Briqueler; Audrey Poirier</author>
+                <author>Établi par Arnaud de Castelbaiac, Service interministériel des archives de
+                    France; Danièle Kriser, Service national des travaux; Marie Castaing; Anne
+                    Briqueler; Audrey Poirier</author>
             </titlestmt>
             <editionstmt>
                 <edition>1ere édition électronique</edition>
@@ -19,26 +20,28 @@
             <publicationstmt>
                 <publisher>Archives nationales</publisher>
                 <address>
-                    <addressline>2 rue des Archives, 77300 Fontainebleau</addressline> <!-- adresse de 
+                    <addressline>2 rue des Archives, 77300 Fontainebleau</addressline>
+                    <!-- adresse de 
                         la localisation physique ? utiliser plutôt un physloc ? -->
                 </address>
                 <date normal="2011">2011</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
-            <creation>Instrument de recherche en XML/EAD produit à l'aide du logiciel oXygen par 
-                conversion manuelle du fichier Word, en juin 2022. Auteurs de la conversion: étudiants du 
-                Master 2 "Technologies numériques appliquées à l'histoire", promotion 2022.</creation>
+            <creation>Instrument de recherche en XML/EAD produit à l'aide du logiciel oXygen par
+                conversion manuelle du fichier Word, en juin 2022. Auteurs de la conversion:
+                étudiants du Master 2 "Technologies numériques appliquées à l'histoire", promotion
+                2022.</creation>
             <langusage>
                 <language langcode="fre">français</language>
             </langusage>
-            <descrules>Conforme à la norme ISAD(G) et aux règles d'application de la DTD EAD 
+            <descrules>Conforme à la norme ISAD(G) et aux règles d'application de la DTD EAD
                 (version 2022) aux Archives nationales.</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date></date>
-                <item></item>
+                <date/>
+                <item/>
             </change>
         </revisiondesc>
     </eadheader>
@@ -46,15 +49,19 @@
     <!-- Groupe 2 : début de l'encodage -->
     <archdesc level="series">
         <did>
-            <unitid type="cote-de-consultation">20110282/1-20110282/74</unitid> <!-- quel type choisir ? -->
-            <unittitle>Conservation régionale des monuments historiques d'Île-de-France : 
+            <unitid type="cote-de-consultation">20110282/1-20110282/74</unitid>
+            <!-- quel type choisir ? -->
+            <unittitle>Conservation régionale des monuments historiques d'Île-de-France :
                 programmation et conduite de travaux sur des édifices publics.</unittitle>
             <unitdate normal="1956/1993">XXe siècle</unitdate>
             <origination>
-                <corpname>Conservation régionale des monuments historiques d'Île-de-France, N1 = 5181</corpname> <!-- A quoi correspond N1 = 5181 ?-->
+                <corpname>Conservation régionale des monuments historiques d'Île-de-France, N1 =
+                    5181</corpname>
+                <!-- A quoi correspond N1 = 5181 ?-->
             </origination>
             <physdesc>
-                <extent>74 cartons de type dimab</extent> <!-- pas néessaire de mettre le type dans un physfacet ?  -->
+                <extent>74 cartons de type dimab</extent>
+                <!-- pas néessaire de mettre le type dans un physfacet ?  -->
                 <dimensions>25 mètres linéaires</dimensions>
             </physdesc>
         </did>
@@ -63,75 +70,85 @@
         </accessrestrict>
         <userestrict>
             <p>La reproduction peut être autorisée lorsque l'état matériel des documents le permet,
-                sous réserve des droits de propriété littéraire et artistique attachés à certains 
-                de ces documents.</p>
+                sous réserve des droits de propriété littéraire et artistique attachés à certains de
+                ces documents.</p>
         </userestrict>
         <acqinfo>
             <p>Versement effectué le <date>31 mai 2011</date></p>
         </acqinfo>
         <bioghist>
-            <p>Les premières conservations régionales des bâtiments de France ont été créées à la Libération.
-                Elles ont pris le nom de conservations régionales des monuments historiques en 1979.
-                La Conservation régionale des monuments historiques d’Ile-de-France (CRMH) est chargée 
-                de recenser, protéger et restaurer les monuments historiques franciliens.</p>
-            <p>Pour les administrations qui exerçaient des attributions similaires avant la création du ministère 
-                de la Culture (1959), on peut consulter par exemple un Tableau succinct de l’histoire administrative 
-                des Bâtiments civils (1792-1990) rédigé par Nadine Gastaldi, conservateur aux Archives nationales, 
-                en novembre 2010.</p>
+            <p>Les premières conservations régionales des bâtiments de France ont été créées à la
+                Libération. Elles ont pris le nom de conservations régionales des monuments
+                historiques en 1979. La Conservation régionale des monuments historiques
+                d’Ile-de-France (CRMH) est chargée de recenser, protéger et restaurer les monuments
+                historiques franciliens.</p>
+            <p>Pour les administrations qui exerçaient des attributions similaires avant la création
+                du ministère de la Culture (1959), on peut consulter par exemple un Tableau succinct
+                de l’histoire administrative des Bâtiments civils (1792-1990) rédigé par Nadine
+                Gastaldi, conservateur aux Archives nationales, en novembre 2010.</p>
         </bioghist>
-        <custodhist> <!-- historique de la conservation -->
-            <p>Avant leur versement, ces documents étaient conservés dans les caves de la Grande Ecurie 
-                du Roi, à Versailles. Le département des travaux de la CRMH Ile-de-France se trouvait en effet
-                dans ce bâtiment jusqu'en 1990, date à laquelle le service a cédé la conduite des travaux portant
-                sur les principaux édifices classés d’Ile-de-France appartenant à l’Etat à un nouveau service 
-                à compétence nationale du ministère de la Culture, le Service national des travaux (SNT).</p>
-            <p>En application d’une décision du Conseil de modernisation des politiques publiques de juin 2008,
-                le SNT et l'Etablissement public de maîtrise d'ouvrage des travaux culturels (EMOC), chargé de 
-                missions voisines, ont fusionné en 2010 dans un établissement public à caractère administratif,
-                l’Opérateur du patrimoine et des projets immobiliers de la Culture (OPPIC) (décret n°2010-818 du 
-                14 juillet 2010).</p>
-            <p>C'est la suppression du service qui a déclenché le versement des archives de la CRMH aux Archives
-                nationales.</p>
+        <custodhist>
+            <!-- historique de la conservation -->
+            <p>Avant leur versement, ces documents étaient conservés dans les caves de la Grande
+                Ecurie du Roi, à Versailles. Le département des travaux de la CRMH Ile-de-France se
+                trouvait en effet dans ce bâtiment jusqu'en 1990, date à laquelle le service a cédé
+                la conduite des travaux portant sur les principaux édifices classés d’Ile-de-France
+                appartenant à l’Etat à un nouveau service à compétence nationale du ministère de la
+                Culture, le Service national des travaux (SNT).</p>
+            <p>En application d’une décision du Conseil de modernisation des politiques publiques de
+                juin 2008, le SNT et l'Etablissement public de maîtrise d'ouvrage des travaux
+                culturels (EMOC), chargé de missions voisines, ont fusionné en 2010 dans un
+                établissement public à caractère administratif, l’Opérateur du patrimoine et des
+                projets immobiliers de la Culture (OPPIC) (décret n°2010-818 du 14 juillet
+                2010).</p>
+            <p>C'est la suppression du service qui a déclenché le versement des archives de la CRMH
+                aux Archives nationales.</p>
         </custodhist>
         <arrangement>
-            <p>Ce versement contient :</p> <!-- élément p potentiellement à supprimer -->
+            <p>Ce versement contient :</p>
+            <!-- élément p potentiellement à supprimer -->
             <list>
-                <item>Les dossiers sont classés par ordre minéralogique de département, puis par ordre alphabétique de ville et de 
-                    nom d'édifice, puis chronologiquement.</item>
-                <item>les dossiers de programmation des travaux, qui retracent les choix faits par le service 
-                    en fonction de l'état des immeubles à restaurer ou à construire : correspondance, notes, 
-                    comptes rendus de réunion, tableaux chiffrés (art. 1-13).</item>
-                <item>les dossiers de maîtrise d'ouvrage et de conduite de travaux : projets architecturaux,
-                    cahiers des clauses techniques particulières, plans, photographies, comptes rendus de chantier,
-                    notes, correspondance (art. 14-74).</item>
+                <item>Les dossiers sont classés par ordre minéralogique de département, puis par
+                    ordre alphabétique de ville et de nom d'édifice, puis chronologiquement.</item>
+                <item>les dossiers de programmation des travaux, qui retracent les choix faits par
+                    le service en fonction de l'état des immeubles à restaurer ou à construire :
+                    correspondance, notes, comptes rendus de réunion, tableaux chiffrés (art.
+                    1-13).</item>
+                <item>les dossiers de maîtrise d'ouvrage et de conduite de travaux : projets
+                    architecturaux, cahiers des clauses techniques particulières, plans,
+                    photographies, comptes rendus de chantier, notes, correspondance (art.
+                    14-74).</item>
             </list>
         </arrangement>
         <separatedmaterial>
-            <p>Autres versements d'archives de la Conservation régionale des bâtiments de France, puis
-                Conservation régionale des monuments historiques aux Archives nationales :</p>
+            <p>Autres versements d'archives de la Conservation régionale des bâtiments de France,
+                puis Conservation régionale des monuments historiques aux Archives nationales :</p>
             <list>
-                <item>19760342 : dossiers du bureau du contrôle des travaux des bâtiments civils. s.d. 
-                    (accessible par un fichier cote 20060196 et par un fichier informatique).</item>
-                <item>19950177, art. 1 : dossiers individuels d'agents ayant quitté leurs fonctions 
+                <item>19760342 : dossiers du bureau du contrôle des travaux des bâtiments civils.
+                    s.d. (accessible par un fichier cote 20060196 et par un fichier
+                    informatique).</item>
+                <item>19950177, art. 1 : dossiers individuels d'agents ayant quitté leurs fonctions
                     de 1954 à 1988.</item>
-                <item>19950178, art. 1-11: service départemental d'architecture de Paris : devis 
-                    et règlements pour travaux d'entretien des bâtiments de France. 1946-1988</item>
+                <item>19950178, art. 1-11: service départemental d'architecture de Paris : devis et
+                    règlements pour travaux d'entretien des bâtiments de France. 1946-1988</item>
             </list>
         </separatedmaterial>
         <relatedmaterial>
-            <p>Versements d'archives de la Conservation régionale des bâtiments de France, puis Conservation 
-                régionale des monuments historiques effectués par le Service national des travaux aux Archives
-                de Paris :</p>
+            <p>Versements d'archives de la Conservation régionale des bâtiments de France, puis
+                Conservation régionale des monuments historiques effectués par le Service national
+                des travaux aux Archives de Paris :</p>
             <list>
-                <item>1486 W, art. 1-2320 : dossiers de programmation et de travaux. 1945-1992</item>
+                <item>1486 W, art. 1-2320 : dossiers de programmation et de travaux.
+                    1945-1992</item>
                 <item>1543 W, art. 1-676 : dossiers de programmation et de travaux. 1951-1988</item>
-                <item>3546 W, art. 1-24 : dossiers de travaux réalisés sur des monuments historiques 
+                <item>3546 W, art. 1-24 : dossiers de travaux réalisés sur des monuments historiques
                     d’Ile-de-France n’appartenant pas à l’Etat. 1967-1990</item>
             </list>
         </relatedmaterial>
         <processinfo>
-            <p>Les éliminations ont principalement porté sur les doubles, les dossiers de consultation d'entreprises (DCE), 
-                la documentation reçue à  titre d'information, les documents comptables relatifs au fonctionnement du service.</p>            
+            <p>Les éliminations ont principalement porté sur les doubles, les dossiers de
+                consultation d'entreprises (DCE), la documentation reçue à titre d'information, les
+                documents comptables relatifs au fonctionnement du service.</p>
         </processinfo>
         <!-- Groupe 2 : fin de l'encodage -->
         <dsc>
@@ -151,7 +168,7 @@
                     <c level="recordgrp">
                         <did>
                             <unitid type="identifiant">20110282/1</unitid>
-                            <unittitle></unittitle>
+                            <unittitle/>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                         <scopecontent>
@@ -165,7 +182,7 @@
                     <c level="recordgrp">
                         <did>
                             <unitid type="identifiant">20110282/2</unitid>
-                            <unittitle></unittitle>
+                            <unittitle/>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                         <scopecontent>
@@ -238,8 +255,10 @@
                         </did>
                         <scopecontent>
                             <list>
-                                <item>Crypte Kléber, comptoir de vente et rénovation des circulations (1972).</item>
-                                <item>Plaque commémorative pour les militaires morts en Afrique du Nord (1972).</item>
+                                <item>Crypte Kléber, comptoir de vente et rénovation des
+                                    circulations (1972).</item>
+                                <item>Plaque commémorative pour les militaires morts en Afrique du
+                                    Nord (1972).</item>
                                 <!--Compléter la liste-->
                             </list>
                         </scopecontent>
@@ -305,7 +324,8 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unittitle>Centre d'accueil et de recherche des Archives nationales (CARAN)</unittitle>
+                                <unittitle>Centre d'accueil et de recherche des Archives nationales
+                                    (CARAN)</unittitle>
                                 <unitdate normal=""><!--compléter--></unitdate>
                             </did>
                         </c>
@@ -357,12 +377,14 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Conservatoire national supérieur d'art dramatique (CNSAD)</unittitle>
+                            <unittitle>Conservatoire national supérieur d'art dramatique
+                                (CNSAD)</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                         <c level="recordgrp">
                             <did>
-                                <unittitle>Restauration de la salle de spectacle et restructuration de la scène</unittitle>
+                                <unittitle>Restauration de la salle de spectacle et restructuration
+                                    de la scène</unittitle>
                                 <unitdate normal=""><!--compléter--></unitdate>
                             </did>
                         </c>
@@ -391,7 +413,8 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Ecole nationale supérieure de création industrielle (ENSCI) - Ateliers de création industrielle</unittitle>
+                            <unittitle>Ecole nationale supérieure de création industrielle (ENSCI) -
+                                Ateliers de création industrielle</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
@@ -519,7 +542,8 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Palais de la Porte Dorée, Musée des arts africains et océaniens</unittitle>
+                            <unittitle>Palais de la Porte Dorée, Musée des arts africains et
+                                océaniens</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
@@ -562,206 +586,929 @@
                     <!-- Groupe 5 : début de l'encodage -->
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Musée national du Moyen-Age, Thermes et Hôtel de Cluny^[^5]^</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitid type="identifiant">20110282/41</unitid>
+                            <unittitle>Musée national du Moyen-Age, Thermes et Hôtel de
+                                Cluny^[^5]^</unittitle>
+                            <!-- on fait quoi de la note de bas de page? -->
+                            <unitdate normal="1978/1989">1978-1989</unitdate>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Cour de la Verrière, aménagement (1978-1979).</item>
+                                <item>Réaménagement des salles 12, 13 et 14 (1980-1982).</item>
+                                <item>Remise en état des locaux d’accueil du public (1983).</item>
+                                <item>Restauration des lucarnes et parties dangereuses des façades
+                                    sur la cour d’honneur (1983-1984).</item>
+                                <item>Restauration de la palestre (1983-1985). Aménagement de
+                                    l’entrée du public (1984).</item>
+                                <item>Altération du portail d’entrée (1984).</item>
+                                <item>Restauration des corniches sculptées Cour d’honneur
+                                    (1986).</item>
+                                <item>Mise hors d’eau du versant ouest de l’aile nord et de son
+                                    retour versant nord (1985-1986).</item>
+                                <item>Consolidation du tepidarium et du mur nord du caldarium
+                                    (1985-1987).</item>
+                                <item>Consolidation des ruines du caldarium (1985-1988).</item>
+                                <item>Consolidation du pignon nord de la chapelle
+                                    (1987-1988).</item>
+                                <item>Restauration et aménagement de la salle n° 9 (1987).</item>
+                                <item>Aménagement de l’appartement de fonction (1988).</item>
+                                <item>Réfection des maçonneries de la façade nord (1988).</item>
+                                <item>Consolidation de la souche centrale, aile est (1989).</item>
+                                <item>Etude de programmation (1986-1989).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/42</unitid>
                             <unittitle>Musée Nissim de Camondo</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Rénovation des installations de chauffage (1984).</item>
+                                <item>Entretien du mur mitoyen côté 65 rue Monceau (1985).</item>
+                                <item>Réfection des couvertures du musée (1985-1986).</item>
+                                <item>Ravalement de façades de l’hôtel sur le parc Monceau et sur le
+                                    jardin (1987).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/42</unitid>
                             <unittitle>Musée Rodin</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Restauration de la façade d’entrée y compris retour partiel,
+                                    façade latérale de droite (1982).</item>
+                                <item>Restauration des façades du portail d’entrée
+                                    (1982-1983).</item>
+                                <item>Restructuration du musée, dont APD (1982-1989).</item>
+                                <item>Achèvement de la réfection de la façade principale sur cour et
+                                    de la façade latérale ouest (1983-1986).</item>
+                                <item>Réfection de la façade sur cours entrée nord (1985).</item>
+                                <item>Restauration de la façade sur le boulevard des Invalides
+                                    (1988).</item>
+                                <item>Réfection des menuiseries façades sud, ouest et est
+                                    (1988).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/42</unitid>
                             <unittitle>Observatoire de Paris</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal="1976/1990">1976-1990</unitdate>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Construction du bâtiment B (1976).</item>
+                                <item>Aménagement d’un poste de transformation (1982).</item>
+                                <item>Rénovation des ateliers d’artistes n° 6, 7 et 8
+                                    (1987-1990).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/43</unitid>
                             <unittitle>Opéra Comique, Salle Favart</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Plans (s.d.).</item>
+                                <item>Création d’un ensemble sonorisation vidéo et interphonie,
+                                    remplacement du jeu d’orgue et création de quatre locaux « jeu
+                                    d’orgue », « sono », « vidéo » et « matériels » au 3ème balcon
+                                    (1982).</item>
+                                <item>Remise en état de la salle et de ses annexes
+                                    (1982-1983).</item>
+                                <item>Aménagement d’une cafétéria du personnel au sous-sol
+                                    (1982).</item>
+                                <item>Magasins de décors de l’Opéra comique boulevard Berthier :
+                                    aménagement d’une salle de répétitions dans l’atelier de
+                                    peinture (1983).</item>
+                                <item>Réfection d’armoires électriques en sous-sol, alimentation et
+                                    rééquipement des armoires de la salle et des loges des 2ème et
+                                    3ème étages : CCTP (1986).</item>
+                                <item>Amélioration de l’acoustique de la salle (1988-1989).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/43-20110282/44</unitid>
+                            <!-- vérifier -->
                             <unittitle>Opéra Garnier</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <c level="recordgrp">
+                            <did>
+                                <unitid type="identifiant">20110282/43</unitid>
+                                <unittitle/>
+                                <unitdate normal="1977/1989">1977-1989</unitdate>
+                            </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Installation des bureaux de la régie de la danse
+                                        (1977-1979).</item>
+                                    <item>Construction d’un local de produits dangereux au magasin
+                                        de décors (1981-1983).</item>
+                                    <item>Peinture des pourtours de la salle (1982).</item>
+                                    <item>Restauration des peintures et menuiseries extérieures côté
+                                        rues Scribe et Auber (1982).</item>
+                                    <item>Changement des moteurs des équipements scéniques
+                                        (1982).</item>
+                                    <item>Remplacement du rideau d’avant-scène (1982).</item>
+                                    <item>Agrandissement de la fosse d’orchestre (1982).</item>
+                                    <item>Restauration de la salle des spectacles
+                                        (1982-1983).</item>
+                                    <item>Restauration du graphisme « Académie nationale de
+                                        musique » en façade de l’Opéra (1982).</item>
+                                    <item>Remise en état des façades D et F (Haussmann)
+                                        (1982).</item>
+                                    <item>Réfection de la couverture de la partie administration
+                                        (1982).</item>
+                                    <item>Remise en état de la Rotonde Zambelli (1982-1983).</item>
+                                    <item>Révision des menuiseries extérieures sur les rues Gluck et
+                                        Halévy (1983).</item>
+                                    <item>Travaux de ventilation de la salle de l’Opéra de Paris
+                                        (1983).</item>
+                                    <item>Rénovation des installations d’équipements scéniques
+                                        (1983).</item>
+                                </list>
+                            </scopecontent>
+                        </c>
+                        <c level="recordgrp">
+                            <did>
+                                <unitid type="identifiant">20110282/44</unitid>
+                                <unittitle/>
+                                <unitdate normal="1984/1990">1984-1990</unitdate>
+                            </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Aménagement de la salle Lifar (1984).</item>
+                                    <item>Aménagement des locaux de la présidence
+                                        (1985-1986).</item>
+                                    <item>Remplissage anticorrosion des structures de la cage de
+                                        scène (1985-1986).</item>
+                                    <item>Réfection des couvertures côté administration rue Halévy
+                                        et rotonde Chauviré (1985).</item>
+                                    <item>Remplacement de la machinerie du rideau de fer
+                                        (1985-1988).</item>
+                                    <item>Réfection des colonnes rostrales (1986), de l’installation
+                                        de sonorisation (1987), des ateliers d’accessoires
+                                        (1987-1988), du grand lustre (1987-1989), de la couverture
+                                        de la Rotonde Zambelli (1988-1989).</item>
+                                    <item>Réaménagement et extension de la bibliothèque-musée
+                                        (1989-1990).</item>
+                                </list>
+                            </scopecontent>
+                        </c>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/45-20110282/46</unitid>
                             <unittitle>Palais de Chaillot</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/45</unitid>
                                 <unittitle>Parvis</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""/>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Remise en eau et réfection des bassins du parvis
+                                        (1982-1983).</item>
+                                    <item>Mise en place d’un traitement anti-graffiti sur les abords
+                                        du parvis (1987).</item>
+                                    <item>Travaux de sécurité, réfection des grands groupes de
+                                        sculptures de bronze, réfection des socles des statues
+                                        (1986-1988).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/45</unitid>
                                 <unittitle>Aile de Paris </unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""/>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Pavillon d’about : réaménagement (1980-1981).</item>
+                                    <item>Remise en état des corniches (1983-1985).</item>
+                                    <item>Pavillon de tête : réfection (1985-1987).</item>
+                                    <item>Rénovation des châssis verticaux sur jardins
+                                        (1985-1986).</item>
+                                    <item>Restauration des dallages du parvis et ravalement de la
+                                        façade de part et d’autre de la porte dorée
+                                        (1986-1987).</item>
+                                </list>
+                            </scopecontent>
+                            <c level="recordgrp">
+                                <did>
+                                    <unittitle>Musée des monuments français</unittitle>
+                                </did>
+                                <scopecontent>
+                                    <list>
+                                        <item>Reconstitution de maquettes et de moulages
+                                            (1984-1986).</item>
+                                        <item>Création d’un atelier enfants-parents
+                                            (1986-1987).</item>
+                                        <item>Restauration de peintures murales (1989).</item>
+                                    </list>
+                                </scopecontent>
+                            </c>
+                            <c level="recordgrp">
+                                <did>
+                                    <unittitle>Théâtre national de Chaillot</unittitle>
+                                    <unitdate normal="1972/1989">1972-1989</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <list>
+                                        <item>Rénovation et adaptation (1972-1975).</item>
+                                        <item>Rénovation des gradins de la grande salle
+                                            (1983-1985).</item>
+                                        <item>Réfection des cintres (1984).</item>
+                                        <item>Aménagement de la fosse d’orchestre pour
+                                            l’amélioration de la courbe de visibilité de la salle
+                                            (1984-1986).</item>
+                                        <item>Equipements techniques nécessaires à la manutention et
+                                            au stockage des gradins et rehausses (1985).</item>
+                                        <item>Finition des dernières herses équilibrées et
+                                            modifications d’équipement scéniques (1985).</item>
+                                        <item>Révision des 9 baies (1985-1986).</item>
+                                        <item>Aménagement de l’accès des décors (1985-1987).</item>
+                                        <item>Réfection partielle des installations de sonorisation
+                                            du Grand Théâtre (1986-1988).</item>
+                                        <item>Modifications des régies du Grand théâtre
+                                            (1989).</item>
+                                        <item>Création d’un couloir de liaison entre la Grande Salle
+                                            et la salle Gémier (1989).</item>
+                                        <item>Remplacement des jeux d’orgue du grand théâtre et du
+                                            pupitre de commande de la salle Gémier (1989).</item>
+                                    </list>
+                                </scopecontent>
+                            </c>
                         </c>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/46</unitid>
                                 <unittitle>Aile de Passy </unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""/>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Mise en conformité de l’électricité (1985-1988).</item>
+                                    <item>Musée de la Marine : réfection de la verrière de la
+                                        galerie courbe de l’aile Passy (1985).</item>
+                                    <item>Musée de l’Homme : aménagement d’un entresolement au 3ème
+                                        étage du musée de l’homme (1978-1980).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/46</unitid>
                             <unittitle>Palais d'Iéna</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal="1978/1987">1978-1987</unitdate>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Rénovation des installations électriques (1985-1987).</item>
+                                <item>Rénovation des aérothermes de la salle des hypostyles du 1er
+                                    étage et des pompes de circulation de la chaufferie
+                                    (1985-1987).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/47</unitid>
                             <unittitle>Palais de l'Alma</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Réfection du mur de la clôture sur la rue de l’Université
+                                    (1982-1983).</item>
+                                <item>Réfection des appartements de service (1984).</item>
+                                <item>Contrat d’étude des installations de chauffage (1985).</item>
+                                <item>Ravalement des façades, cour de la maréchalerie et façade
+                                    retour du manège côté rue de l’Université (1988).</item>
+                                <item>Aménagement de bureaux au rez-de-chaussée et à l'entresol
+                                    (1989-1991).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/47</unitid>
                             <unittitle>Palais de l'Elysée</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal="1982/1991">1982-1991</unitdate>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Réfection de la loge d’honneur et installation d’un portique
+                                    (1982).</item>
+                                <item>Réfection des façades de la salle des fêtes et création de
+                                    locaux enterrés (1984).</item>
+                                <item>Restauration intérieure de la salle des fêtes et aménagement
+                                    des annexes (1984).</item>
+                                <item>Sécurité du parc et mise en conformité des bureaux du service
+                                    intérieur du rez-de-chaussée ouest (1984).</item>
+                                <item>Modification de la petite verrière du jardin d’hiver
+                                    (1984-1985).</item>
+                                <item>Construction d’un local enterré de télécommunications
+                                    (1984-1985).</item>
+                                <item>Réfection des lanternes de la cour d’honneur
+                                    (1984-1985).</item>
+                                <item>Sécurité du parc et mise en conformité des bureaux de sécurité
+                                    et des bureaux du service intérieur (1984-1986).</item>
+                                <item>Eclairage des portraits (1985).</item>
+                                <item>Chauffage et ventilation de la crèche (1985-1986).</item>
+                                <item>Aménagement de bureau au rez-de-chaussée de l’aile est, bureau
+                                    de Mme Mitterrand (1985).</item>
+                                <item>Restauration des balustrades de la cour de l’est et
+                                    raccordement pour terrasson (1985).</item>
+                                <item>Réfection de l’escalier principal (1986).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/48</unitid>
                             <unittitle>Palais-Royal</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Réfection des balustrades [photographies] (1980-1981).</item>
+                                <item>Réfection de statues (1981-1987).</item>
+                                <item>Remise en état de la galerie de Beaujolais endommagée lors de
+                                    l’attentat contre le Grand Véfour (1984).</item>
+                                <item>Travaux hydrauliques et d’assainissement préalables à
+                                    l’installation de l’œuvre monumentale du sculpteur Buren
+                                    (1986).</item>
+                                <item>Système de protection anti-intrusion (1986-1987).</item>
+                                <item>Etude générale préalable à la restauration du clos et du
+                                    couvert de la partie Etat : premier rapport consacré aux
+                                    galeries et péristyles de la cour d'honneur (1986-1989).</item>
+                                <item>Restauration de la galerie des Proues (1988). Entretien des
+                                    fontaines (1988).</item>
+                            </list>
+                        </scopecontent>
                         <c level="recordgrp">
                             <did>
                                 <unittitle>Comédie Française</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""/>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Mécanisme scénique (1982-1986).</item>
+                                    <item>Réfection de la couverture du dôme (1982-1986).</item>
+                                    <item>Remplacement de balustres (1985).</item>
+                                    <item>Restauration des locaux du rez-de-chaussée (1988).</item>
+                                    <item>Travaux annexes au jeu d’orgues (1989).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                         <c level="recordgrp">
                             <did>
                                 <unittitle>Conseil constitutionnel</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""/>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Réfection de la couverture côté rue Montpensier (1982) et
+                                        côté jardin (1982-1983).</item>
+                                    <item>Remplacement de balustres (1983).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                         <c level="recordgrp">
                             <did>
                                 <unittitle>Conseil d'Etat</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""/>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Aménagement des anciens locaux du ministère de la Culture,
+                                        rez-de-chaussée et entresol (1983).</item>
+                                    <item>Aménagement d’anciens locaux du ministère de la Culture
+                                        (1982-1983).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                         <c level="recordgrp">
                             <did>
                                 <unittitle>Ministère de la Culture</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal="1980/1990">1980-1990</unitdate>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Réorganisation du 1 rue de Valois et aménagement d’une
+                                        salle de cinéma (1984-1986).</item>
+                                    <item>Décoration du plafond du salon d’attente (1985).</item>
+                                    <item>Transfert du service de documentation des monuments
+                                        historiques et aménagement de bureaux (1987).</item>
+                                    <item>Aménagement des sous-sols de la cour d’honneur
+                                        (1987).</item>
+                                    <item>Création d’un nouvel accès 3 rue Valois
+                                        (1987-1990).</item>
+                                    <item>Réfection de la peinture du plafond du salon du Roi Jérôme
+                                        (1989).</item>
+                                    <item>Restauration du salon des Maréchaux (1988-1989).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/49-20110282/53</unitid>
                             <unittitle>Palais du Louvre et Tuileries</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""></unitdate>
                         </did>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/49</unitid>
                                 <unittitle>Union centrale des arts décoratifs (UCAD)</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal="1981:1985">1981-1985</unitdate>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Entresolement de la galerie des Tuileries pour
+                                        l’installation des collections au niveau 2 (1981).</item>
+                                    <item>Renforcement de la sécurité (1981-1984).</item>
+                                    <item>Réfection de la couverture (1981-1984).</item>
+                                    <item>Aménagement des ateliers au niveau -1 (1982).</item>
+                                    <item>Aménagement des combles en bureaux (1982-1985).</item>
+                                    <item>Création d’une passerelle au niveau 2 (1982-1984).</item>
+                                    <item>Pavillon de Marsan niveau 2, aménagement du laboratoire de
+                                        conservation des textiles (1983).</item>
+                                    <item>Réfection des installations de chauffage (1983).</item>
+                                    <item>Aménagement du niveau 1 pour les collections fin XIXème et
+                                        XXème siècles (1983).</item>
+                                    <item>Pavillon de Marsan : réfection des couvertures
+                                        (1983-1984).</item>
+                                    <item>Aménagement du niveau 2, circuit Moyen-Age – Renaissance
+                                        (1984-1985).</item>
+                                    <item>Pavillon de Marsan, Musée de la mode : aménagement des
+                                        niveaux 5 à 9 : APS scénographie, plans, notes,
+                                        correspondance (1983-1984).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/50</unitid>
                                 <unittitle>Aile Rivoli-Finances</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""></unitdate>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Restauration du pavillon de Rohan (1980).</item>
+                                    <item>Restauration du groupe sculpté en retour (1983).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/50-20110282/52</unitid>
                                 <unittitle>Musée du Louvre</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal="1979/1987">1979-1987</unitdate>
                             </did>
+                            <c level="recordgrp">
+                                <!-- vérifier le level -->
+                                <did>
+                                    <unitid type="identifiant">20110282/50</unitid>
+                                    <unittitle>Interventions diverses</unittitle>
+                                </did>
+                                <scopecontent>
+                                    <list>
+                                        <item>Grilles décoratives Saut du Loup (1979).</item>
+                                        <item>Aménagement d’un atelier de serrurerie dans la cour
+                                            Lefuel/Visconti (1979-1981).</item>
+                                        <item>Construction de réserves enterrées sous la cour
+                                            Visconti (1980-1981) et sous la Cour carrée
+                                            (1980-1983).</item>
+                                        <item>Plancher de la direction du musée au-dessus de la
+                                            salle Campana (1980).</item>
+                                        <item>Vente de vieux plomb en table (1982).</item>
+                                        <item>Aménagement du poste de contrôle du pavillon Marengo
+                                            (1982-1983).</item>
+                                        <item>Installations électriques dans la zone des Antiquités
+                                            orientales (1983).</item>
+                                        <item>Sondages préalables aux fouilles archéologiques, au
+                                            dégagement et à la mise en valeur des vestiges du donjon
+                                            de Philippe-Auguste et du Palais de Charles V
+                                            (1983).</item>
+                                        <item>Bicentenaire des traités de Versailles et de Paris
+                                            (1983).</item>
+                                        <item>Restauration de la salle du conseil de la direction
+                                            des musées de France et de son antichambre
+                                            (1983-1984).</item>
+                                        <item>Laboratoire de recherches (1983-1987). Eclairage de la
+                                            Cour Carrée (1984).</item>
+                                        <item>Installation d’une rampe dans l’escalier vers la porte
+                                            Barbet de Jouy (1984-1985).</item>
+                                        <item>Aménagement d’un poste de contrôle dans les combles
+                                            des salles Percier et Duchâtel (1983-1986).</item>
+                                        <item>Installations électriques partie sud de la Cour Carrée
+                                            et partie est de la cour Visconti (1983).</item>
+                                        <item>Aménagement de l’agence d’architecture (1982).</item>
+                                        <item>Egout au droit de la réserve Visconti : sinistre du
+                                            16/09/1982.</item>
+                                        <item>Petits cabinets du département des peintures :
+                                            ventilation (1983).</item>
+                                    </list>
+                                </scopecontent>
+                            </c>
+                            <c level="recordgrp">
+                                <did>
+                                    <unitid type="identifiant">20110282/51</unitid>
+                                    <unittitle>Couvertures</unittitle>
+                                </did>
+                                <scopecontent>
+                                    <list>
+                                        <item>Aile nord de la Cour Carrée, pavillons Beauvais,
+                                            Marengo, Assyriens (1981).</item>
+                                        <item>Couvertures, brisis, chéneaux, lucarnes et attique
+                                            aile de Flore (1982-1983).</item>
+                                        <item>Réfection des couvertures zones sud et sud-est du
+                                            Pavillon Sully (repérage des profils de moulures)
+                                            (1982-1985).</item>
+                                        <item>Aile est de la Cour carrée entre les pavillons
+                                            dits Petit-Bourbon et Saint-Germain l’Auxerrois
+                                            (1983).</item>
+                                        <item>Statuaire parties hautes du palais (1983).</item>
+                                        <item>Pavillon Sully, zones nord et nord-est, travaux de
+                                            sculpture (1983-1984).</item>
+                                        <item>Pavillon des Arts (1984).</item>
+                                        <item>Aile est de la Cour Carrée, pavillon des Assyriens et
+                                            pavillon Saint-Germain-l’Auxerrois (1984).</item>
+                                    </list>
+                                </scopecontent>
+                            </c>
+                            <c level="recordgrp">
+                                <did>
+                                    <unitid type="identifiant">20110282/51</unitid>
+                                    <unittitle>Façades</unittitle>
+                                </did>
+                                <scopecontent>
+                                    <list>
+                                        <item>Réfection de la façade est du pavillon des Assyriens
+                                            (1981-1982).</item>
+                                        <item>Aile de Flore, côté Seine (1981-1983).</item>
+                                        <item>Pavillon des Etats : balustrades et sculptures
+                                            [photographies] (1982-1984).</item>
+                                        <item>Pavillon Sully : suppression du lanterneau vitré et
+                                            remplacement par un terrasson en plomb
+                                            (1982-1984).</item>
+                                        <item>Ravalement du Pavillon Daru (1983).</item>
+                                    </list>
+                                </scopecontent>
+                            </c>
+                            <c level="recordgrp">
+                                <did>
+                                    <unitid type="identifiant">20110282/51</unitid>
+                                    <unittitle>Salles d’exposition</unittitle>
+                                    <unitdate normal="1980/1987">1980-1987</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <list>
+                                        <item>Réaménagement des salles romaines (1980-1983).</item>
+                                        <item>Réfection de la salle du Manège (1982).</item>
+                                        <item>Mise en sécurité des fenêtres de la Galerie Campana
+                                            (1982-1983).</item>
+                                        <item>Fermeture des œils de bœuf de la galerie d’Apollon
+                                            (1982-1984).</item>
+                                        <item>Second étage de la Cour Carrée : réfection des
+                                            menuiseries et mise en sécurité des fenêtres
+                                            (1982-1984).</item>
+                                        <item>Aménagement de la troisième salle étrusque, mission
+                                            Grand Louvre (1983-1984).</item>
+                                        <item>Restauration du plafond de la salle Camondo
+                                            (1984-1985).</item>
+                                        <item>Restitution des plafonds peints des salles
+                                            Thiers-Schlichting-Rothschild (1987).</item>
+                                        <item>Remise en état des salles Duchâtel, du salon Carré, de
+                                            la grande Galerie et de la galerie de Flore
+                                            (1987).</item>
+                                    </list>
+                                </scopecontent>
+                            </c>
+                            <c level="recordgrp">
+                                <did>
+                                    <unitid type="identifiant">20110282/52</unitid>
+                                    <unittitle>Cour Carrée</unittitle>
+                                    <unitdate normal="1980/1988">1980-1988</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <list>
+                                        <item>Aménagement de l’atelier de restauration des peintures
+                                            dans le pavillon dit Petit-Bourbon (1980-1983).</item>
+                                        <item>Deuxième étage de la Cour Carrée, aile nord et
+                                            demi-aile ouest : plans (1980-1981) ; réfection des
+                                            menuiseries extérieures et mise en sécurité des fenêtres
+                                            (1982-1983) ; aménagement des salles de peinture
+                                            (1980-1988) ; mise au jour, étaiement et restauration
+                                            des plafonds peints (1986-1987) ; installation de portes
+                                            coupe-feu : DOE (1984-1985).</item>
+                                    </list>
+                                </scopecontent>
+                            </c>
                         </c>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/53</unitid>
                                 <unittitle>Jardin des Tuileries</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal=""/>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Entretien et rénovation du jardin (1979-1987) : plan
+                                        d’aménagement directeur du jardin, règlement et surveillance
+                                        du jardin, vols et dégradations, abattage et plantation
+                                        d’arbres, réfection des allées, des bassins, des statues,
+                                        protection des abords, aménagement de la place du Louvre et
+                                        statue du Bernin, arc de triomphe du Carrousel, projet de
+                                        passerelle Louvre-Orsay. </item>
+                                </list>
+                            </scopecontent>
                         </c>
                         <c level="recordgrp">
                             <did>
+                                <unitid type="identifiant">20110282/53</unitid>
                                 <unittitle>Orangerie</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal="1975/1987">1975-1987</unitdate>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Fondations : plans (1975-1981).</item>
+                                    <item>Restauration des vitrages intérieurs du musée
+                                        (1982).</item>
+                                    <item>Aménagement du sas du hall d’entrée (1981-1982).</item>
+                                    <item>Supplément de travaux (éclairage zénithal) (1982).
+                                        Consolidation, remise en état (1979-1980).</item>
+                                    <item>Climatisation, compresseurs (1976).</item>
+                                    <item>Restauration après sinistre (1980).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/54</unitid>
                             <unittitle>Palais de Tokyo</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Aménagement du local de réserve dit « Chevalet » au sous-sol
+                                    [opération annulée] (1980-1982).</item>
+                                <item>Etudes préliminaires à l’installation de l’Ecole du Louvre,
+                                    établissement d’un dossier photographique et d’une maquette
+                                    (1983-1985).</item>
+                                <item>Aménagement des salles d’exposition du 1er étage (étage des
+                                    donateurs) (1984-1985).</item>
+                                <item>Travaux de sondages pour rechercher la composition des
+                                    fondations du parvis (1985-1986).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/54-20110282/55</unitid>
                             <unittitle>Panthéon</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""></unitdate>
                         </did>
+                        <c level="recordgrp">
+                            <!-- vérifier -->
+                            <did>
+                                <unitid type="identifiant">20110282/54</unitid>
+                                <unittitle/>
+                                <unitdate normal="1980/1987">1980-1987</unitdate>
+                            </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Réfection de la couverture de la coupole du transept nord,
+                                        versant nord et sud, du péristyle, versant nord de la nef
+                                        (1980).</item>
+                                    <item>Consolidation provisoire de deux grandes verrières
+                                        (1980).</item>
+                                    <item>Restauration de la salle des Evêques [photographies]
+                                        (1983-1984).</item>
+                                    <item>Découverte et restauration de plans du XVIIIème siècle
+                                        (1985).</item>
+                                    <item>Restauration des côtés sud et ouest du croisillon sud
+                                        (1985-1986).</item>
+                                    <item>Restauration du sud du chœur et du côté est du croisillon
+                                        sud (1985-1987).</item>
+                                </list>
+                            </scopecontent>
+                        </c>
+                        <c level="recordgrp">
+                            <!-- vérifier -->
+                            <did>
+                                <unitid type="identifiant">20110282/55</unitid>
+                                <unittitle/>
+                            </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Restauration des verrières et voûtes (1986).</item>
+                                    <item>Réalisation de l’amovibilité des grilles du tombeau et
+                                        réfection partielle du parvis (1987-1988).</item>
+                                    <item>Restauration de deux escaliers d’accès au dôme, versant
+                                        est et ouest et des façades adjacentes du transept
+                                        (1987-1988).</item>
+                                    <item>Construction du tombeau de Jean Monnet (1988).</item>
+                                </list>
+                            </scopecontent>
+                        </c>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/55</unitid>
                             <unittitle>Sainte-Chapelle</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal="1973/1988">1973-1988</unitdate>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Installation d’un éclairage de sécurité devant permettre
+                                    l’utilisation de la chapelle haute pour des manifestations
+                                    publiques (1973-1974).</item>
+                                <item>Restauration des parements, imperméabilisation de la pierre et
+                                    travaux de sculpture sur la façade ouest [photographies]
+                                    (1980).</item>
+                                <item>Travaux divers : comptes rendus de réunions de chantier
+                                    (1981-1984).</item>
+                                <item>Restauration de la couverture du versant nord [photographies]
+                                    (1982-1983).</item>
+                                <item>Aménagement de la courette nord [photographies]
+                                    (1982-1983).</item>
+                                <item>Restauration des fenestrages de la 1ère baie sud
+                                    [photographies] (1982-1984).</item>
+                                <item>Remise en état de la terrasse au dessus de la rose sud
+                                    [photographies] (1982-1984).</item>
+                                <item>Restauration des 5ème et 6ème baies sud (1983-1988).</item>
+                                <item>Poursuite de la restauration du narthex de la chapelle haute :
+                                    doubleaux et parements extérieurs (1985-1986).</item>
+                                <item>Restauration des voûte du narthex et réfection de la terrasse
+                                    en plomb du narthex (1983).</item>
+                                <item>Restauration de la couverture du versant nord
+                                    (1981-1982).</item>
+                                <item>Restaurations diverses : gargouilles, balustrades,
+                                    menuiseries, serrurerie (1987).</item>
+                                <item>Remise en état de la balustrade de l’oratoire (1983).</item>
+                                <item>Réalisation d’un tambour d’entrée et d’un garde corps dans la
+                                    chapelle haute [photographies] (1983).</item>
+                                <item>Remise en état des médaillons peints quadrilobes
+                                    [photographies] (1983).</item>
+                                <item>Restauration de la crête en plomb [photographies]
+                                    (1984).</item>
+                                <item>Sondages dans la chapelle des Girondins (1987).</item>
+                                <item>Etat des gargouilles (1987).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/56-58</unitid>
                             <unittitle>Théâtre de l'Est parisien (TEP)</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <c level="recordgrp">
+                            <did>
+                                <unitid type="identifiant">20110282/56</unitid>
+                                <unittitle/>
+                                <unitdate normal="1978/1988">1978-1988</unitdate>
+                            </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Aménagement d’une salle de répétition : CCTP, ,marchés et
+                                        plans d'ingénierie (1981).</item>
+                                    <item>Transformation en salle de spectacle de 400 places : APD,
+                                        notes, correspondance (1978-1983), DCE (1982 et 1984),
+                                        permis de construire (1983).</item>
+                                    <item>Restructuration du théâtre (1984).</item>
+                                    <item>Acquisition de mitoyenneté (1979-1988).</item>
+                                </list>
+                            </scopecontent>
+                        </c>
+                        <c level="recordgrp">
+                            <did>
+                                <unitid type="identifiant">20110282/57</unitid>
+                                <unittitle/>
+                                <unitdate normal="1984">1984</unitdate>
+                            </did>
+                            <scopecontent>
+                                <list>
+                                    <item>transformation en salle de spectacle : DCE-PEO
+                                        (1984).</item>
+                                </list>
+                            </scopecontent>
+                        </c>
+                        <c level="recordgrp">
+                            <did>
+                                <unitid type="identifiant">20110282/58</unitid>
+                                <unittitle/>
+                                <unitdate normal="1984/1994">1984-1994</unitdate>
+                            </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Marchés de maîtrise d’œuvre, OPC, contrôle technique,
+                                        reconnaissance des sols et démolition (1984-1985).</item>
+                                    <item>Marchés de travaux (1985-1987). 1% artistique
+                                        (1987).</item>
+                                    <item>Extension du théâtre : marchés de travaux
+                                        (1993-1994).</item>
+                                </list>
+                            </scopecontent>
+                        </c>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/59</unitid>
                             <unittitle>Théâtre national de l'Odéon</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Remise en état de la machinerie du théâtre (1982-1983).</item>
+                                <item>Nouvelles cabines de jeux d’orgue et régie son (1983).</item>
+                                <item>Réfection des façades (1984).</item>
+                                <item>Réfection du cadre de scène et de ses accessoires
+                                    (1985).</item>
+                                <item>Sauvegarde d’urgence du deuxième balcon (1985).</item>
+                                <item>Réfection du cadre de scène et de ses accessoires
+                                    (1985-1986).</item>
+                                <item>Plan masse (s.d.).</item>
+                            </list>
+                        </scopecontent>
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant"><!--compléter--></unitid>
+                            <unitid type="identifiant">20110282/59</unitid>
                             <unittitle>Val-de-Grâce</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
+                        <scopecontent>
+                            <list>
+                                <item>Restauration du pavillon sud de la cour d’honneur
+                                    (1978-1979).</item>
+                                <item>Restauration de la cour d’honneur (1979).</item>
+                                <item>Réfection des corniches et des couvertures du cloître
+                                    (1979).</item>
+                                <item>Restauration de la façade sud du cloître (1986).</item>
+                                <item>Restauration des sculptures de Buyster sur les parties
+                                    extérieures de l’église, tambour et chapelle (1986).</item>
+                                <item>Rapports relatifs à des études préalables : restauration des
+                                    galeries du cloître et de la salle capitulaire (1986),
+                                    restauration de la façade nord de l’aile nord du cloître (1989),
+                                    restauration des façades et toitures des bâtiments 05 et 005 et
+                                    achèvement restauration façade ouest du bâtiment 004
+                                    (1989-1990).</item>
+                                <item>Aile sud du cloître : achèvement de la restauration (1987),
+                                    restauration de la façade nord (1987), aménagement de la galerie
+                                    du 1er étage (1987), réfection de la couverture du brisis et du
+                                    terrasson sud et remise en état du brisis et du terrasson nord
+                                    (1988).</item>
+                                <item>Pavillon sud-est du cloître : restauration de la façade est et
+                                    remplacement de croisées (1988-1989).</item>
+                                <item>Restauration de l’aile ouest du cloître, façade est et
+                                    couverture (1989).</item>
+                                <item>Assainissement de la façade nord aile sud du cloître
+                                    (1989).</item>
+                                <item>Assainissement de la façade de l’aile sud du cloître et du
+                                    pavillon sud-est (1989).</item>
+                                <item>Nef et transept : restauration des vitraux (1989-1990).</item>
+                            </list>
+                        </scopecontent>
                         <c level="recordgrp">
                             <did>
                                 <unittitle>Chapelle dite du Saint-Sacrement</unittitle>
-                                <unitdate normal=""><!--compléter--></unitdate>
+                                <unitdate normal="1978/1990">1978-1990</unitdate>
                             </did>
+                            <scopecontent>
+                                <list>
+                                    <item>Restauration du tambour du dôme (1978-1983).</item>
+                                    <item>Restauration des peintures de Mignard sous la coupole
+                                        (1980-1986).</item>
+                                    <item>Réfection de la terrasse en plomb du dôme de la chapelle
+                                        et des couvertures de deux tourelles (1987).</item>
+                                    <item>Lavage des façades de la chapelle (1989).</item>
+                                </list>
+                            </scopecontent>
                         </c>
                     </c>
                 </c>
@@ -783,7 +1530,8 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Fontainebleau -- Archives nationales, Cité interministérielle des archives, puis Cité des archives contemporaines</unittitle>
+                            <unittitle>Fontainebleau -- Archives nationales, Cité interministérielle
+                                des archives, puis Cité des archives contemporaines</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
@@ -811,7 +1559,8 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Provins -- Ancien couvent des Cordelières (Bibliothèque nationale)</unittitle>
+                            <unittitle>Provins -- Ancien couvent des Cordelières (Bibliothèque
+                                nationale)</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
@@ -825,14 +1574,16 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Bois d'Arcy -- Batterie (Centre national de la cinématographie)</unittitle>
+                            <unittitle>Bois d'Arcy -- Batterie (Centre national de la
+                                cinématographie)</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Magny-les-Hameaux -- Musée des Granges de Port-Royal</unittitle>
+                            <unittitle>Magny-les-Hameaux -- Musée des Granges de
+                                Port-Royal</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
@@ -885,7 +1636,8 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Saint-Arnoult-en-Yvelines -- Moulin de Villeneuve (Fondation Elsa Triolet -- Aragon)</unittitle>
+                            <unittitle>Saint-Arnoult-en-Yvelines -- Moulin de Villeneuve (Fondation
+                                Elsa Triolet -- Aragon)</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
@@ -899,7 +1651,8 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle>Thiverval-Grignon -- Institut national agronomique</unittitle>
+                            <unittitle>Thiverval-Grignon -- Institut national
+                                agronomique</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
@@ -968,7 +1721,7 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant"><!--compléter--></unitid>
-                            <unittitle></unittitle>
+                            <unittitle/>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
                     </c>
