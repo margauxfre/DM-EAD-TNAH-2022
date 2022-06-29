@@ -621,7 +621,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/42</unitid>
+                            <unitid type="cote-de-consultation">20110282/42</unitid>
                             <unittitle>Musée Nissim de Camondo</unittitle>
                             <unitdate normal=""/>
                         </did>
@@ -637,7 +637,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/42</unitid>
+                            <unitid type="cote-de-consultation">20110282/42</unitid>
                             <unittitle>Musée Rodin</unittitle>
                             <unitdate normal=""><!--compléter--></unitdate>
                         </did>
@@ -660,7 +660,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/42</unitid>
+                            <unitid type="cote-de-consultation">20110282/42</unitid>
                             <unittitle>Observatoire de Paris</unittitle>
                             <unitdate normal="1976/1990">1976-1990</unitdate>
                         </did>
@@ -675,7 +675,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/43</unitid>
+                            <unitid type="cote-de-consultation">20110282/43</unitid>
                             <unittitle>Opéra Comique, Salle Favart</unittitle>
                             <unitdate normal=""/>
                         </did>
@@ -709,7 +709,7 @@
                         </did>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/43</unitid>
+                                <unitid type="cote-de-consultation">20110282/43</unitid>
                                 <unittitle/>
                                 <unitdate normal="1977/1989">1977-1989</unitdate>
                             </did>
@@ -746,7 +746,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/44</unitid>
+                                <unitid type="cote-de-consultation">20110282/44</unitid>
                                 <unittitle/>
                                 <unitdate normal="1984/1990">1984-1990</unitdate>
                             </did>
@@ -779,7 +779,7 @@
                         </did>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/45</unitid>
+                                <unitid type="cote-de-consultation">20110282/45</unitid>
                                 <unittitle>Parvis</unittitle>
                                 <unitdate normal=""/>
                             </did>
@@ -797,7 +797,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/45</unitid>
+                                <unitid type="cote-de-consultation">20110282/45</unitid>
                                 <unittitle>Aile de Paris </unittitle>
                                 <unitdate normal=""/>
                             </did>
@@ -861,7 +861,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/46</unitid>
+                                <unitid type="cote-de-consultation">20110282/46</unitid>
                                 <unittitle>Aile de Passy </unittitle>
                                 <unitdate normal=""/>
                             </did>
@@ -878,7 +878,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/46</unitid>
+                            <unitid type="cote-de-consultation">20110282/46</unitid>
                             <unittitle>Palais d'Iéna</unittitle>
                             <unitdate normal="1978/1987">1978-1987</unitdate>
                         </did>
@@ -893,7 +893,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/47</unitid>
+                            <unitid type="cote-de-consultation">20110282/47</unitid>
                             <unittitle>Palais de l'Alma</unittitle>
                             <unitdate normal=""/>
                         </did>
@@ -912,7 +912,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/47</unitid>
+                            <unitid type="cote-de-consultation">20110282/47</unitid>
                             <unittitle>Palais de l'Elysée</unittitle>
                             <unitdate normal="1982/1991">1982-1991</unitdate>
                         </did>
@@ -946,7 +946,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/48</unitid>
+                            <unitid type="cote-de-consultation">20110282/48</unitid>
                             <unittitle>Palais-Royal</unittitle>
                             <unitdate normal=""/>
                         </did>
@@ -1040,7 +1040,7 @@
                         </did>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/49</unitid>
+                                <unitid type="cote-de-consultation">20110282/49</unitid>
                                 <unittitle>Union centrale des arts décoratifs (UCAD)</unittitle>
                                 <unitdate normal="1981:1985">1981-1985</unitdate>
                             </did>
@@ -1070,7 +1070,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/50</unitid>
+                                <unitid type="cote-de-consultation">20110282/50</unitid>
                                 <unittitle>Aile Rivoli-Finances</unittitle>
                                 <unitdate normal=""></unitdate>
                             </did>
@@ -1090,7 +1090,7 @@
                             <c level="recordgrp">
                                 <!-- vérifier le level -->
                                 <did>
-                                    <unitid type="identifiant">20110282/50</unitid>
+                                    <unitid type="cote-de-consultation">20110282/50</unitid>
                                     <unittitle>Interventions diverses</unittitle>
                                 </did>
                                 <scopecontent>
@@ -1135,7 +1135,7 @@
                             </c>
                             <c level="recordgrp">
                                 <did>
-                                    <unitid type="identifiant">20110282/51</unitid>
+                                    <unitid type="cote-de-consultation">20110282/51</unitid>
                                     <unittitle>Couvertures</unittitle>
                                 </did>
                                 <scopecontent>
@@ -1161,7 +1161,7 @@
                             </c>
                             <c level="recordgrp">
                                 <did>
-                                    <unitid type="identifiant">20110282/51</unitid>
+                                    <unitid type="cote-de-consultation">20110282/51</unitid>
                                     <unittitle>Façades</unittitle>
                                 </did>
                                 <scopecontent>
@@ -1180,7 +1180,7 @@
                             </c>
                             <c level="recordgrp">
                                 <did>
-                                    <unitid type="identifiant">20110282/51</unitid>
+                                    <unitid type="cote-de-consultation">20110282/51</unitid>
                                     <unittitle>Salles d’exposition</unittitle>
                                     <unitdate normal="1980/1987">1980-1987</unitdate>
                                 </did>
@@ -1209,7 +1209,7 @@
                             </c>
                             <c level="recordgrp">
                                 <did>
-                                    <unitid type="identifiant">20110282/52</unitid>
+                                    <unitid type="cote-de-consultation">20110282/52</unitid>
                                     <unittitle>Cour Carrée</unittitle>
                                     <unitdate normal="1980/1988">1980-1988</unitdate>
                                 </did>
@@ -1230,7 +1230,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/53</unitid>
+                                <unitid type="cote-de-consultation">20110282/53</unitid>
                                 <unittitle>Jardin des Tuileries</unittitle>
                                 <unitdate normal=""/>
                             </did>
@@ -1248,7 +1248,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/53</unitid>
+                                <unitid type="cote-de-consultation">20110282/53</unitid>
                                 <unittitle>Orangerie</unittitle>
                                 <unitdate normal="1975/1987">1975-1987</unitdate>
                             </did>
@@ -1268,7 +1268,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/54</unitid>
+                            <unitid type="cote-de-consultation">20110282/54</unitid>
                             <unittitle>Palais de Tokyo</unittitle>
                             <unitdate normal=""/>
                         </did>
@@ -1295,7 +1295,7 @@
                         <c level="recordgrp">
                             <!-- vérifier -->
                             <did>
-                                <unitid type="identifiant">20110282/54</unitid>
+                                <unitid type="cote-de-consultation">20110282/54</unitid>
                                 <unittitle/>
                                 <unitdate normal="1980/1987">1980-1987</unitdate>
                             </did>
@@ -1320,7 +1320,7 @@
                         <c level="recordgrp">
                             <!-- vérifier -->
                             <did>
-                                <unitid type="identifiant">20110282/55</unitid>
+                                <unitid type="cote-de-consultation">20110282/55</unitid>
                                 <unittitle/>
                             </did>
                             <scopecontent>
@@ -1338,7 +1338,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/55</unitid>
+                            <unitid type="cote-de-consultation">20110282/55</unitid>
                             <unittitle>Sainte-Chapelle</unittitle>
                             <unitdate normal="1973/1988">1973-1988</unitdate>
                         </did>
@@ -1389,7 +1389,7 @@
                         </did>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/56</unitid>
+                                <unitid type="cote-de-consultation">20110282/56</unitid>
                                 <unittitle/>
                                 <unitdate normal="1978/1988">1978-1988</unitdate>
                             </did>
@@ -1407,7 +1407,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/57</unitid>
+                                <unitid type="cote-de-consultation">20110282/57</unitid>
                                 <unittitle/>
                                 <unitdate normal="1984">1984</unitdate>
                             </did>
@@ -1420,7 +1420,7 @@
                         </c>
                         <c level="recordgrp">
                             <did>
-                                <unitid type="identifiant">20110282/58</unitid>
+                                <unitid type="cote-de-consultation">20110282/58</unitid>
                                 <unittitle/>
                                 <unitdate normal="1984/1994">1984-1994</unitdate>
                             </did>
@@ -1438,7 +1438,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/59</unitid>
+                            <unitid type="cote-de-consultation">20110282/59</unitid>
                             <unittitle>Théâtre national de l'Odéon</unittitle>
                             <unitdate normal=""/>
                         </did>
@@ -1458,7 +1458,7 @@
                     </c>
                     <c level="file">
                         <did>
-                            <unitid type="identifiant">20110282/59</unitid>
+                            <unitid type="cote-de-consultation">20110282/59</unitid>
                             <unittitle>Val-de-Grâce</unittitle>
                             <unitdate normal=""/>
                         </did>
