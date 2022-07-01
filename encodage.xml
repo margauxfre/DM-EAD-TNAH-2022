@@ -589,7 +589,7 @@
                             <unitid type="identifiant">20110282/41</unitid>
                             <unittitle>Musée national du Moyen-Age, Thermes et Hôtel de
                                 Cluny^[^5]^</unittitle>
-                            <!-- on fait quoi de la note de bas de page? -->
+                            <!-- note de bas de page? -->
                             <unitdate normal="1978/1989">1978-1989</unitdate>
                         </did>
                         <scopecontent>
@@ -639,7 +639,7 @@
                         <did>
                             <unitid type="cote-de-consultation">20110282/42</unitid>
                             <unittitle>Musée Rodin</unittitle>
-                            <unitdate normal=""><!--compléter--></unitdate>
+                            <unitdate normal=""/>
                         </did>
                         <scopecontent>
                             <list>
@@ -703,7 +703,6 @@
                     <c level="file">
                         <did>
                             <unitid type="identifiant">20110282/43-20110282/44</unitid>
-                            <!-- vérifier -->
                             <unittitle>Opéra Garnier</unittitle>
                             <unitdate normal=""/>
                         </did>
@@ -1088,7 +1087,6 @@
                                 <unitdate normal="1979/1987">1979-1987</unitdate>
                             </did>
                             <c level="recordgrp">
-                                <!-- vérifier le level -->
                                 <did>
                                     <unitid type="cote-de-consultation">20110282/50</unitid>
                                     <unittitle>Interventions diverses</unittitle>
@@ -1293,7 +1291,6 @@
                             <unitdate normal=""></unitdate>
                         </did>
                         <c level="recordgrp">
-                            <!-- vérifier -->
                             <did>
                                 <unitid type="cote-de-consultation">20110282/54</unitid>
                                 <unittitle/>
@@ -1318,7 +1315,6 @@
                             </scopecontent>
                         </c>
                         <c level="recordgrp">
-                            <!-- vérifier -->
                             <did>
                                 <unitid type="cote-de-consultation">20110282/55</unitid>
                                 <unittitle/>
@@ -1413,7 +1409,7 @@
                             </did>
                             <scopecontent>
                                 <list>
-                                    <item>transformation en salle de spectacle : DCE-PEO
+                                    <item>Transformation en salle de spectacle : DCE-PEO
                                         (1984).</item>
                                 </list>
                             </scopecontent>
